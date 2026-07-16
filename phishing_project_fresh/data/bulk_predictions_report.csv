@@ -1,0 +1,5 @@
+url,final_prediction,consensus_confidence,logistic_regression_pred,logistic_regression_conf,decision_tree_pred,decision_tree_conf,random_forest_pred,random_forest_conf,support_vector_machine_svm_pred,support_vector_machine_svm_conf
+https://github.com/trending,legitimate,1.0,legitimate,1.0,legitimate,1.0,legitimate,1.0,legitimate,1.0
+http://192.168.1.1/login.php,phishing,0.8507885304765959,phishing,0.9992881826077105,legitimate,1.0,legitimate,0.59,phishing,0.7022888783454811
+https://wikipedia.org,legitimate,1.0,legitimate,1.0,legitimate,1.0,legitimate,1.0,legitimate,1.0
+http://secure-login-wellsfargo.click/update,phishing,0.8190792258348133,phishing,0.9999938562578359,legitimate,1.0,phishing,0.5660863095238095,phishing,0.8911575117227944

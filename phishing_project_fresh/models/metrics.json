@@ -1,0 +1,38 @@
+[
+    {
+        "Algorithm": "Logistic Regression",
+        "Accuracy": 0.8125,
+        "Precision": 0.8048780487804879,
+        "Recall": 0.825,
+        "F1-Score": 0.8148148148148148,
+        "Train Time (s)": 0.010170100023970008,
+        "Inference Time (s)": 0.00015649991109967232
+    },
+    {
+        "Algorithm": "Decision Tree",
+        "Accuracy": 0.91875,
+        "Precision": 0.958904109589041,
+        "Recall": 0.875,
+        "F1-Score": 0.9150326797385621,
+        "Train Time (s)": 0.002771100029349327,
+        "Inference Time (s)": 0.0005562999285757542
+    },
+    {
+        "Algorithm": "Random Forest",
+        "Accuracy": 0.9625,
+        "Precision": 1.0,
+        "Recall": 0.925,
+        "F1-Score": 0.961038961038961,
+        "Train Time (s)": 0.1178578999824822,
+        "Inference Time (s)": 0.015133599983528256
+    },
+    {
+        "Algorithm": "Support Vector Machine (SVM)",
+        "Accuracy": 0.85625,
+        "Precision": 0.8518518518518519,
+        "Recall": 0.8625,
+        "F1-Score": 0.8571428571428571,
+        "Train Time (s)": 0.03909970005042851,
+        "Inference Time (s)": 0.0029637999832630157
+    }
+]
